@@ -3,7 +3,7 @@
  * and one for the motor speed (pin 3). The speed is set using PWM. 
  * This code is meant to be run on the Arduino Uno hardware. 
  */
-
+/* Code retrieved from Cytron as an example, only modified to test MDD10A with RC car. */
 
 //Pins used to control direction and speed of the motor. Speed pin should be a pwm pin.
 #define MotorDirection 4
